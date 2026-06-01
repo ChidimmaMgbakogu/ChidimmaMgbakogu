@@ -1,9 +1,4 @@
 ## Hi there, I'm Mgbakogu Chidimma Precious  👋
-<!-- Social Badges Section -->
-<a href= https://www.linkedin.com/in/preciouschidimma10/><img src="https://shields.io" alt="LinkedIn"></a>
-<a href= https://x.com/Nma_pres><img src="https://shields.io" alt="X"></a>
-<a href= "mgbakoguchidinma@gmail.com"><img src="https://shields.io" alt="Email"></a>
-<a href= https://web.whatsapp.com/><img src="https://shields.io" alt="WhatsApp"></a>
 
 <!-- Social Badges Section -->
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/preciouschidimma10/)
