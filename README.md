@@ -14,18 +14,18 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on
 
-# Software Testing & Quality Assurance: Building hands-on experience in manual testing, test case design, bug reporting, API testing, and software quality assurance best practices. 
-# Continuous Learning: Expanding my knowledge of SQL, Python, test automation, and Agile methodologies to bridge the gap between business requirements and software quality. 
-# Business Analysis in Practice: Strengthening my skills in requirements gathering, process analysis, user story creation, acceptance criteria definition, and stakeholder collaboration.
+* **Software Testing & Quality Assurance:** Building hands-on experience in manual testing, test case design, bug reporting, API testing, and software quality assurance best practices. 
+* **Continuous Learning:** Expanding my knowledge of SQL, Python, test automation, and Agile methodologies to bridge the gap between business requirements and software quality. 
+* **Business Analysis in Practice: Strengthening my skills in requirements gathering, process analysis, user story creation, acceptance criteria definition, and stakeholder collaboration.
 
 ## 🌱 I’m currently learning
-Advanced Quality Assurance Testing
-Test Automation
-Python for QA 
-Agile & Scrum Practices
+* Advanced Quality Assurance Testing
+* Test Automation
+* Python for QA 
+* Agile & Scrum Practices
 
 ## 📝A Soft Reflection
-Every process has a story. My job is to listen carefully, ask the right questions, and translate that story into something actionable.
+* Every process has a story. My job is to listen carefully, ask the right questions, and translate that story into something actionable.
 
 ## ⚡ Fun fact:
-🌍 One of my long-term goals is to build an international tech career and explore opportunities abroad
+* 🌍 One of my long-term goals is to build an international tech career and explore opportunities abroad
